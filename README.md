@@ -110,6 +110,3 @@ This project provides a practical introduction to:
 - Model caching
 - Connecting an AI model to a web interface
 
-## 👩‍💻 Author
-
-**Hemalatha K**
